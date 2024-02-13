@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, AWS**
 
-- 👨‍💻 All of my projects are available at [www.himanshudahal.dev](www.himanshudahal.dev)
+- 👨‍💻 All of my projects are available at [https://github.com/dahalh](https://github.com/dahalh)
 
 - 📫 How to reach me **dahalh@outlook.com**
 
